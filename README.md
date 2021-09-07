@@ -3,3 +3,6 @@
 
 ### 1 石头、剪刀、布
 rock_paper_scissors.py
+
+### 2 笛卡尔的心形曲线
+love_curve.py
