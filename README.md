@@ -11,8 +11,15 @@ love_curve.py
 ### 3 Python画时钟
 clock.py
 
-### 3 Python画小猪佩奇
+### 4 Python画小猪佩奇
 peppa_pig.py
+
+### 4 可以添加自己单词本的词典
+dictionary/
+
+
+
+
 
 # 抖音搜索“程序媛安娜”观看样例
 
