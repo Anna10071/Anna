@@ -8,6 +8,12 @@ rock_paper_scissors.py
 ### 2 Python笛卡尔的心形曲线
 love_curve.py
 
+### 3 Python画时钟
+clock.py
+
+### 3 Python画小猪佩奇
+
+
 
 
 
