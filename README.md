@@ -14,7 +14,7 @@ clock.py
 ### 4 Python画小猪佩奇
 peppa_pig.py
 
-### 4 可以添加自己单词本的词典
+### 5 可以添加自己单词本的词典
 dictionary/
 
 
